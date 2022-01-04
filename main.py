@@ -21,7 +21,6 @@ class Pepper:
         self.login = login
         self.sleep = sleep
         self.working = self.sign_in(self.login)
-        s = 1
 
     def sign_in(self, login):
         """Authorization"""
