@@ -1,0 +1,6 @@
+media/
+*.png
+.idea/
+__pycache__/
+chromedriver.exe
+*copy.py
